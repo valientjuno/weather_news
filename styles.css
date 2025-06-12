@@ -3,6 +3,7 @@ a {
 }
 .article-five-day {
   border: double;
+  border-color: aquamarine;
 }
 article.article {
   border: solid;
