@@ -1,6 +1,13 @@
 a {
   color: #111;
 }
+.article-five-day {
+  border: double;
+}
+article.article {
+  border: solid;
+  border-color: azure;
+}
 div.page {
   border: double;
   border-color: aliceblue;
