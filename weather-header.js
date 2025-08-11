@@ -19,7 +19,7 @@
 // }
 
 const api =
-  "https://api.openweathermap.org/data/2.5/weather?lat=40.53&lon=-110.3&appid=bc805f89e83cdacb25b45ea6feb8b0ee&units=imperial";
+  "https://api.openweathermap.org/data/2.5/weather?q=Tooele&appid=bc805f89e83cdacb25b45ea6feb8b0ee";
 let weatherSummary = document.querySelector("div.summary");
 let para = document.createElement("p");
 
